@@ -15,4 +15,4 @@ mkdir -p media/{movies,shows}
 mkdir -p downloads/{complete,temp}
 
 <!-- create config directories  -->
-mkdir -p config/{jellyfin,radarr,sonarr,sabnzbd}
+mkdir -p config/{jellyfin,radarr,sonarr,nzbget}
